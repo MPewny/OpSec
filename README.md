@@ -8,6 +8,7 @@ This guide is made to give as much capabilities as possible is as simple way as 
 - Basic computer skills
 - Understanding of operation systems
 - Basic programming expirience
+
 **Every section here can have different requirements**
 
 ## Legal disclamer
